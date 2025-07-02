@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [link](https://ayush-awasthi431.github.io/blog-preview-card-main/)
 
 ## My process
 
